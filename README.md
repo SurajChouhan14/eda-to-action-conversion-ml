@@ -9,7 +9,7 @@ Audience: Beginners and stakeholders. Code is step-by-step with simple comments 
 
 Key deliverables: Classification pipeline (with PR-AUC focus and threshold tuning), uplift ranking (top/bottom segments), and actionable KPIs.
 
-Open In Colab: 
+Open In Colab: https://colab.research.google.com/github/SurajChouhan14/eda-to-action-conversion-ml/blob/main/eda-to-action-conversion-ml.ipynb
 
 Dataset
 
